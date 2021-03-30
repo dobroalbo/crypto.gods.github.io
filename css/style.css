@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(26, 26, 26);
+    color:white;
+}
+.ban img{
+    object-fit: cover;
+    width: 100%;
+    height: 85%;
+    min-height: 200px;
+    max-height: 200px;
+}
+.pri-c{
+
+}
+.m-t{
+    text-align: center;
+    align-self: center;
+    padding-top: 15px;
+}
+.dop-c{
+    color: #7a7a7a;
+}
+.hea h1{
+    font-family: 'montserrat';
+    font-weight: 600;
+    margin-top: 20px;
+}
+.hea{
+    text-align: center;
+}
+.wr-i{
+    text-align-last: center;
+}
+.wr-i img{ 
+    max-width: 350px ;
+    width: 100%;
+    
+}
+.vt-r{
+    padding-top: 40px;
+    justify-content: center;
+}
+.em{
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color: #2b2b2b;
+}
